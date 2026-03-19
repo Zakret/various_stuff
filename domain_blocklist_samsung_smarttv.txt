@@ -1,3 +1,4 @@
+#polaczenia z tv
 nrdp-cell4.prod.ftl.netflix.com
 uiboot.netflix.com
 nrdp51-appboot.netflix.com
@@ -8,7 +9,7 @@ cdn-0.nflximg.com
 nrdp.prod.cloud.netflix.com
 hbbtvtest.emitel.pl
 hbbtv.emitel.pl
-hbb-prod.tvp.pl
+# hbb-prod.tvp.pl
 # hbbtest.v3.tvp.pl
 teleaudio.pl
 enhanced.live
@@ -26,6 +27,7 @@ mobile-data.onetrust.io
 # narazie nie potrzebny
 netflix.com
 nflximg.com
+
 # ogolne
 luckyorange.com
 browser.sentry-cdn.com
