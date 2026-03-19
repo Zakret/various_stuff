@@ -10,7 +10,7 @@ nrdp.prod.cloud.netflix.com
 hbbtvtest.emitel.pl
 hbbtv.emitel.pl
 # hbb-prod.tvp.pl
-# hbbtest.v3.tvp.pl
+hbbtest.v3.tvp.pl
 teleaudio.pl
 enhanced.live
 enhanced.tools
