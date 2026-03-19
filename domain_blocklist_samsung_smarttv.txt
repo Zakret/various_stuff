@@ -1,0 +1,28 @@
+nrdp-cell4.prod.ftl.netflix.com
+uiboot.netflix.com
+nrdp51-appboot.netflix.com
+preapp.prod.partner.netflix.net
+nrdp.nccp.netflix.com
+api-global.netflix.com
+cdn-0.nflximg.com
+nrdp.prod.cloud.netflix.com
+hbbtvtest.emitel.pl
+hbbtv.emitel.pl
+hbb-prod.tvp.pl
+# hbbtest.v3.tvp.pl
+teleaudio.pl
+enhanced.live
+enhanced.tools
+ichnaea.netflix.com
+logs.netflix.com
+minerva.devices.a2z.com
+gi-eu.amazon.com
+aibixby.com
+enhanced.live
+enhanced.tools
+google-analytics.com
+mobile-data.onetrust.io
+# narazie nie potrzebny
+netflix.com
+nflximg.com
+#
