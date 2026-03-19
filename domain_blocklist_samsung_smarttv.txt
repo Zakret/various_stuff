@@ -27,10 +27,24 @@ mobile-data.onetrust.io
 netflix.com
 nflximg.com
 # ogolne
-yandex.ru
 luckyorange.com
 browser.sentry-cdn.com
 static.ads-twitter.com
 ads-api.twitter.com
+ads.x.com
+tr.facebook.com
 events.reddit.com
 log.pinterest.combusiness-api.tiktok.com
+aan.amazon.com
+quora.com
+2giga.link
+greatis.com
+browser.sentry-cdn.com
+bam.nr-data.net
+ironSource.mobi
+pangleglobal.com
+thetradedesk.com
+fingerprintjs.com
+tagmanager.google.com
+api.amplitude.com
+
