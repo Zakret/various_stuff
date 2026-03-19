@@ -22,7 +22,15 @@ enhanced.live
 enhanced.tools
 google-analytics.com
 mobile-data.onetrust.io
+
 # narazie nie potrzebny
 netflix.com
 nflximg.com
-#
+# ogolne
+yandex.ru
+luckyorange.com
+browser.sentry-cdn.com
+static.ads-twitter.com
+ads-api.twitter.com
+events.reddit.com
+log.pinterest.combusiness-api.tiktok.com
